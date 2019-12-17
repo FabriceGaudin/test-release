@@ -1,3 +1,3 @@
 # test-release
 
-this change is made only on beta for now.
+this change was made only on beta but it's now on every branches
